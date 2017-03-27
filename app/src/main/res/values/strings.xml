@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MandatoryCanteen</string>
+
+    <string-array name="FrontPageListview">
+        <item> Dish menu </item>
+        <item> Rating </item>
+        <item> Take away </item>
+
+    </string-array>
+
+</resources>
